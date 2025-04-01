@@ -1,6 +1,11 @@
-Example source code and associated notes for the book "Real-World
-Instrumentation with Python" by J. M. Hughes, published by O'Reilly
-Media, December 2010, ISBN 978-0-596-80956-0.
+Example source code and associated notes for:
+- Real-World Instrumentation with Python
+- by J. M. Hughes
+- published by O'Reilly Media
+- December 2010
+- ISBN 978-0-596-80956-0
+
+![Real-World Instrumentation with Python](Real_World_Instrumentation_with_Python.png)
 
 Using the Code Examples (from the book Preface)
 
