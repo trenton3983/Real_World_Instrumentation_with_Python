@@ -6,13 +6,13 @@ Using the Code Examples (from the book Preface)
 
 This book is here to help you get your job done. In general, you may use
 the code in this book in your programs and documentation. You do not need
-to contact us for permission unless you’re reproducing a significant portion
+to contact us for permission unless youâ€™re reproducing a significant portion
 of the code. For example, writing a program that uses several chunks of code
 from this book does not require permission. Selling or distributing a CD-ROM
-of examples from O’Reilly books does require permission. Answering a question
+of examples from Oâ€™Reilly books does require permission. Answering a question
 by citing this book and quoting example code does not require permission.
 Incorporating a significant amount of example code from this book into your
-product’s documentation does require permission. We appreciate, but do not
+productâ€™s documentation does require permission. We appreciate, but do not
 require, attribution. An attribution usually includes the title, author,
 publisher, and ISBN. If you feel your use of code examples falls outside
 fair use or the permission given above, feel free to contact O'Reilly at
@@ -46,9 +46,10 @@ is up to you.
 
 J.M. Hughes
 
-================================================================================
-Source Files
-================================================================================
+---
+
+# Source Files
+
 CH03
     argshow.py              Command-line arguments lister
     docstrings.py           docstrings usage example
@@ -168,10 +169,10 @@ CH14
     read183dmm.py           Example code to read data from the tpi 183 DMM
     u3ledblink.py           LabJack U3 example
 
+---
 
-================================================================================
-Notes and Errata
-================================================================================
+# Notes and Errata
+
 CH04: get_data.c
 
     Include for <stdlib.h> is missing in the book version. This version is
